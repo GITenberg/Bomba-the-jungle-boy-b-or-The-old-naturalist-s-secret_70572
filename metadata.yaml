@@ -1,0 +1,45 @@
+_repo: Bomba-the-jungle-boy-b-or-The-old-naturalist-s-secret_70572
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Rogers, Walter S.
+    alias: Rogers, W. S.
+    birthdate: 1871
+    deathdate: 1937
+    gutenberg_agent_id: '7671'
+    url: http://www.gutenberg.org/2009/agents/7671
+    wikipedia: https://en.wikipedia.org/wiki/Walter_S._Rogers
+creator:
+  author:
+    agent_name: Rockwood, Roy
+    gutenberg_agent_id: '1625'
+    url: http://www.gutenberg.org/2009/agents/1625
+    wikipedia: https://en.wikipedia.org/wiki/Roy_Rockwood
+description: ''
+gutenberg_issued: '2023-04-17'
+identifiers:
+  gutenberg: '70572'
+language: en
+pgterms:marc905: 20221207163259rockwood
+pgterms:marc906: '1926'
+pgterms:marc907: us
+production_note: Bob Taylor, David Edwards and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bCupples & Leon Company, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'South America -- Juvenile fiction'
+- !lcsh 'Naturalists -- Juvenile fiction'
+- !lcsh 'Jungles -- Juvenile fiction'
+- !lcsh 'Jungle survival -- Juvenile fiction'
+- !lcsh 'Amazon River Region -- Juvenile fiction'
+- !lcsh 'Identity (Psychology) -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Bomba the jungle boy : $b or, The old naturalist''s secret'
+url: http://www.gutenberg.org/ebooks/70572
